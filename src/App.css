@@ -1,0 +1,10 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.App {
+  background-color: #373737;
+  color: #f8f8f8;
+  height: 100vh;
+}
